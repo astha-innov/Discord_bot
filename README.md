@@ -10,6 +10,7 @@ It brings fun, facts, joke, inspiration and a bit of personality to a server - p
 - `/joke` - sends a random joke from a joke API
 - `/quote` - delivers an inspirational quote with author from quote API
 - `/fun_fact` - sends a random bizarre fact from fact API
+- `/senpai_help` - displays the list of all available commands
 
 ## APIs Used 
 - [JokeAPI](https://sv443.net/jokeapi/v2/ )  - for jokes 
