@@ -27,6 +27,7 @@ async def main():
     await bot.load_extension('cogs.joke')
     await bot.load_extension('cogs.quote')
     await bot.load_extension('cogs.fun_fact')
+    await bot.load_extension('cogs.help')
 
 
 asyncio.run(main())
