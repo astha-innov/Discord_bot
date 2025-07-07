@@ -5,17 +5,16 @@ It brings fun, facts, joke, inspiration and a bit of personality to a server - p
 ---
 
 ## Commands
-Command Description
-/greet - replies with 'Hellooo Senpai 🤗'
-/roll - rolls a dice and returns a random number in range(1, 6)
-/joke - sends a random joke from a joke API
-/quote - delivers an inspirational quote with author from quote API
-/fun_fact - sends a random bizarre fact from fact API
+- `/greet` - replies with 'Hellooo Senpai 🤗'
+- `/roll` - rolls a dice and returns a random number in range(1, 6)
+- `/joke` - sends a random joke from a joke API
+- `/quote` - delivers an inspirational quote with author from quote API
+- `/fun_fact` - sends a random bizarre fact from fact API
 
 ## APIs Used 
-[JokeAPI](https://sv443.net/jokeapi/v2/ )  - for jokes 
-[Zen Quotes API](https://zenquotes.io/)   - for inspirational quotes
-[Random Useless Facts API](https://publicapi.dev/random-useless-facts-api)  - for random fun facts
+- [JokeAPI](https://sv443.net/jokeapi/v2/ )  - for jokes 
+- [Zen Quotes API](https://zenquotes.io/)   - for inspirational quotes
+- [Random Useless Facts API](https://publicapi.dev/random-useless-facts-api)  - for random fun facts
 
 ## Built with
 - [Python](https://www.python.org/)
