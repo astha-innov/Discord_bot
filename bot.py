@@ -22,14 +22,10 @@ async def greet(ctx):
     await ctx.send('Hellooo Senpai 🤗')
 
 
-@bot.command()
-async def inspire(ctx):
-    await ctx.send("All the pain that doesn't kill you, will only make you stronger 🔥")
-
-
 async def main():
     await bot.load_extension('cogs.roll')
     await bot.load_extension('cogs.joke')
+    await bot.load_extension('cogs.quote')
 
 
 asyncio.run(main())
